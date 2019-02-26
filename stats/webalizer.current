@@ -1,0 +1,426 @@
+# Webalizer V2.01-10 Incremental Data - 02/26/2019 00:01:39
+2019 2 26 0 1 39
+750 675 37 62 16 21 31839520 82 32 0
+1 1 257 24 26
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 8 5380 4 8 4
+741 667 31833665 32 73 27
+1 0 475 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 475 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 2 10034 1
+1 1 696 1
+21 6 36762 16
+43 42 1486701 2
+43 42 1486701 2
+177 170 5104247 11
+54 52 1112700 4
+83 54 1197557 2
+25 22 228484 2
+2 1 14119 1
+2 2 1276 2
+33 32 553709 8
+3 1 1104 3
+0 0 0 0
+257 246 20603679 24
+2 2 1276 2
+0
+0
+0
+675
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+61
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/hexagons.min.js
+0 4 0 3564 0 0
+/css/font-awesome.min.css
+0 4 0 29672 0 0
+/
+0 66 0 193000 32 5
+/js/main.js
+0 21 0 24380 0 0
+/img/icon-1.png
+0 16 0 67827 0 0
+/img/testimonial/t2.jpg
+0 4 0 30572 0 0
+/js/vendor/bootstrap.min.js
+0 4 0 57740 0 0
+/img/app-store-icon.png
+0 9 0 43849 0 0
+/css/main.css
+0 4 0 50180 0 0
+/img/testimonial/t1.jpg
+0 4 0 27176 0 0
+/js/jquery.nice-select.min.js
+0 4 0 5532 0 0
+/js/jquery.ajaxchimp.min.js
+0 4 0 6160 0 0
+/img/logo.png
+0 4 0 7228 0 0
+/fonts/fontawesome-webfont.woff2
+0 4 0 310015 0 0
+/img/curved-bgg.jpg
+0 10 0 185198 0 0
+/js/waypoints.min.js
+0 4 0 11860 0 0
+/img/google-play-icon.png
+0 16 0 76459 0 0
+/img/iphone.png
+0 17 0 3006441 0 0
+/css/bootstrap.css
+0 37 0 855488 0 0
+/js/wow.min.js
+0 17 0 50152 0 0
+/css/animate.css
+0 32 0 148071 0 0
+/css/style.css
+0 32 0 107245 0 0
+/js/bootstrap.js
+0 17 0 356044 0 0
+/img/screenshots/s4.jpg
+0 4 0 198484 0 0
+/img/screenshots/s3.jpg
+0 4 0 226220 0 0
+/js/easing.min.js
+0 4 0 4464 0 0
+/logo.png
+0 4 0 35340 0 0
+/img/quote.png
+0 4 0 5492 0 0
+/img/home-banner-bg.jpg
+0 4 0 200012 0 0
+/img/screenshots/s2.jpg
+0 4 0 201388 0 0
+/css/hexagons.min.css
+0 4 0 8920 0 0
+/js/vendor/jquery-2.2.4.min.js
+0 4 0 120680 0 0
+/js/hoverIntent.js
+0 4 0 10876 0 0
+/img/video-bg.jpg
+0 4 0 1664328 0 0
+/img/quotes-2.jpg
+0 16 0 31179 0 0
+/img/screenshots/s1.jpg
+0 4 0 298868 0 0
+/js/owl.carousel.min.js
+0 4 0 43500 0 0
+/fonts/Linearicons-Free.woff2
+0 4 0 88404 0 0
+/js/owl-carousel-thumb.min.js
+0 4 0 5764 0 0
+/img/quotes-1.jpg
+0 16 0 29108 0 0
+/css/owl.theme.default.min.css
+0 32 0 20047 0 0
+/css/nice-select.css
+0 4 0 5668 0 0
+/js/mail-script.js
+0 4 0 3356 0 0
+/img/banner-img.png
+0 4 0 1125024 0 0
+/js/jquery.magnific-popup.min.js
+0 4 0 30776 0 0
+/img/phone-image.png
+0 19 0 4942507 0 0
+/img/download-section-bg.jpg
+0 15 0 2174602 0 0
+/js/owl.carousel.js
+0 17 0 344451 0 0
+/img/banner-bg.jpg
+0 19 0 1289231 0 0
+/img/play-btn.png
+0 4 0 9260 0 0
+/css/linearicons.css
+0 4 0 7960 0 0
+/css/magnific-popup.css
+0 4 0 8681 0 0
+/img/icon-3.png
+0 16 0 61742 0 0
+/img/testimonial/t4.jpg
+0 4 0 30704 0 0
+/img/smartphone-2.png
+0 16 0 4984811 0 0
+/js/jquery.min.js
+0 17 0 519332 0 0
+/img/icon-2.png
+0 16 0 69215 0 0
+/js/superfish.min.js
+0 4 0 8924 0 0
+/css/owl.carousel.css
+0 36 0 55301 0 0
+/img/testimonial/t3.jpg
+0 4 0 23880 0 0
+/img/smartphone-1.png
+0 16 0 7257421 0 0
+/js/tilt.jquery.min.js
+0 4 0 8524 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.64.83
+0 6 6 63643 1 1551112901
+/
+66.249.64.85
+0 12 12 135698 1 1551111109
+/
+66.249.64.87
+0 5 4 28081 0 0
+-
+159.65.27.112
+0 2 2 1276 1 1551050748
+/
+62.210.111.66
+0 1 1 740 1 1551041341
+/
+54.221.74.94
+0 1 0 486 0 0
+-
+31.13.115.4
+0 1 1 4916 0 0
+-
+31.13.115.9
+0 2 2 32295 0 0
+-
+162.158.65.184
+0 1 0 182 1 1551127136
+/
+100.26.235.123
+0 1 1 785 1 1551090005
+/
+54.210.102.73
+0 3 3 2088 1 1551037363
+/
+31.0.47.192
+0 23 22 3408575 1 1551135161
+/
+31.13.115.12
+0 1 1 85229 0 0
+-
+31.13.115.14
+0 5 5 70901 0 0
+-
+31.13.115.15
+0 1 1 3339 1 1551102021
+/
+31.13.115.17
+0 3 3 150851 0 0
+-
+51.15.187.209
+0 1 0 475 1 1551091066
+/
+171.25.193.20
+0 1 1 3285 1 1551105015
+/
+171.25.193.78
+0 2 1 4709 2 1551134480
+/
+51.15.80.14
+0 1 1 696 1 1551087529
+/
+149.154.161.13
+0 1 1 7200 1 1551135058
+/
+145.239.143.56
+0 2 2 9575 1 1551089709
+/
+91.196.10.216
+0 304 258 7297874 4 1551108721
+/
+85.248.227.164
+0 1 1 3285 1 1551104607
+/
+109.70.100.22
+0 1 0 475 1 1551139299
+/
+109.70.100.24
+0 1 1 4234 1 1551096490
+/
+54.196.79.8
+0 1 0 531 0 0
+-
+91.223.175.6
+0 264 252 17740112 2 1551135047
+/
+89.188.223.202
+0 26 25 553065 1 1551106036
+/
+66.220.149.16
+0 1 1 85217 0 0
+-
+66.220.149.36
+0 1 1 85217 0 0
+-
+3.91.191.36
+0 1 1 3376 1 1551101996
+/
+157.230.140.231
+0 2 2 1276 1 1551033626
+/
+69.58.178.56
+0 2 1 14119 1 1551116862
+/
+5.173.120.139
+0 26 25 553065 1 1551104144
+/
+162.158.68.144
+0 1 0 182 1 1551127112
+/
+5.173.33.178
+0 42 41 1482467 1 1551094255
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+109.70.100.22
+0 1 0 475 1 1551139299
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://senna-app.com/
+0 235
+- (Direct Request)
+0 92
+http://m.facebook.com/
+0 2
+http://hundejo.com/
+0 2
+http://senna-app.com/css/font-awesome.min.css
+0 5
+http://senna-app.com/css/style.css
+0 15
+http://senna-app.com/css/linearicons.css
+0 5
+https://senna-app.com/css/style.css
+0 23
+http://www.senna-app.com/css/style.css
+0 6
+http://senna-app.com/css/main.css
+0 9
+http://pizza-imperia.com/
+0 3
+http://pizza-tycoon.com/
+0 2
+http://burger-imperia.com/
+0 1
+http://senna-app.com/
+0 305
+http://www.senna-app.com/
+0 44
+android-app://com.Slack
+0 1
+# End Of Table - referrers
+# -agents- 
+TelegramBot (like TwitterBot)
+0 1
+Mozilla/5.0 (Linux; Android 9; EML-L29 Build/HUAWEIEML-L29; w
+0 26
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/2
+0 2
+Mozilla/5.0 (compatible; ips-agent)
+0 2
+Mozilla/5.0 (Linux; Android 9; EML-L29) AppleWebKit/537.36 (K
+0 44
+Mozilla/5.0 (Linux; Android 7.0; VTR-L29) AppleWebKit/537.36 
+0 26
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible
+0 10
+Mozilla/5.0 (Linux; Android 8.0.0; BND-L21 Build/HONORBND-L21
+0 26
+Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+0 404
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; CLT-L29) AppleWebKit/537.3
+0 23
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) App
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/53
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/2010
+0 138
+Wget/1.17.1 (linux-gnu)
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit
+0 15
+Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0;+http://
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/5
+0 3
+Slackbot 1.0 (+https://api.slack.com/robots)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
